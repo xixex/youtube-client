@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "func-names": [
+      "error",
+      "never"
+    ]
+  },
+  "env": {
+    "browser": true,
+    "amd": true,
+    "node": true
+  }
+}
